@@ -31,7 +31,7 @@ Here's a step-by-step plan:
 
 3. **Mathematical Representation:**
    - Use calculus notation to explain the relationship between total utility and marginal utility.
-   - Include Greek symbols like \( \Delta \) (Delta) for change, and \( \epsilon \) (epsilon) for a small increment.
+   - Include Greek symbols like $\Delta$ (Delta) for change, and $\epsilon$ (epsilon) for a small increment.
 
 Let’s create the visual:
 
