@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LaTeX Example
+title: 
 ---
 
 <script type="text/javascript" async
@@ -15,18 +15,6 @@ MathJax.Hub.Config({
   }
 });
 </script>
-
-# LaTeX Rendering Example
-
-This is an example of inline LaTeX: $E = mc^2$
-
-This is an example of a displayed LaTeX equation:
-
-$$
-\int_{a}^{b} f(x) \, dx = F(b) - F(a)
-$$
-
-# 
 
 > *[John Adams to Abigail](https://www.masshist.org/digitaladams/archive/doc?id=L17800512jasecond)*
 
@@ -44,11 +32,11 @@ $$
 
 #
 
-I could fill Volumes with Descriptions of Temples and Palaces, Paintings, Sculptures, Tapestry, Porcelaine, etc -- if I could have time. But I could not do this without neglecting my duty. The Science of Government it is my Duty to study, more than all other Studies Sciences: the Art of Legislation and Administration and Negotiation, ought to take Place, indeed to exclude in a manner all other Arts. I must study Politicks and War that my sons may have liberty to study Painting and Poetry Mathematicks and Philosophy. My sons ought to study Mathematicks and Philosophy, Geography, natural History, Naval Architecture, navigation, Commerce and Agriculture, in order to give their Children a right to study Painting, Poetry, Musick, Architecture, Statuary, Tapestry and Porcelaine.
+I could fill Volumes with Descriptions of Temples and Palaces, Paintings, Sculptures, Tapestry, Porcelaine, etc -- if I could have time. But I could not do this without neglecting my duty. The Science of Government it is my Duty to study, more than all other Sciences: the Art of Legislation and Administration and Negotiation, ought to take Place, indeed to exclude in a manner all other Arts. I must study Politicks and War that my sons may have liberty to study Painting and Poetry, Mathematicks and Philosophy. My sons ought to study Mathematicks and Philosophy, Geography, natural History, Naval Architecture, navigation, Commerce and Agriculture, in order to give their Children a right to study Painting, Poetry, Musick, Architecture, Statuary, Tapestry and Porcelaine.
 
 #
 
-To demonstrate diminishing marginal utility visually, I'll create a plot that shows the relationship between total utility and the quantity of a good consumed, alongside a marginal utility curve. Additionally, I'll include some calculus notation and Greek symbols to illustrate the concept mathematically.
+To demonstrate diminishing marginal utility visually (**for the lot who have no study, but leisure**), I'll create a plot that shows the relationship between total utility and the quantity of a good consumed, alongside a marginal utility curve. Additionally, I'll include some calculus notation and Greek symbols to illustrate the concept mathematically. Leisure thus leads to cravings for utility - drugs come to mind, or a healthy return of the prodigal son to the arts, professional work, or even manual labor
 
 Here's a step-by-step plan:
 
