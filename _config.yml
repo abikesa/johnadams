@@ -1,0 +1,22 @@
+theme: minima
+markdown: kramdown
+kramdown:
+  input: GFM
+  math_engine: mathjax
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true
+    span:
+      line_numbers: false
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+exclude:
+  - vendor
+  - node_modules
+
+# MathJax Configuration
+mathjax: 
+  config: "TeX-AMS_HTML"
