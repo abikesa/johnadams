@@ -9,7 +9,7 @@ title: LaTeX Example
 
 # LaTeX Rendering Example
 
-This is an example of inline LaTeX: $E = mc^2$.
+This is an example of inline LaTeX: $E = mc^2$
 
 This is an example of a displayed LaTeX equation:
 
@@ -35,7 +35,7 @@ $$
 
 #
 
-I could fill Volumes with Descriptions of Temples and Palaces, Paintings, Sculptures, Tapestry, Porcelaine, &c. &c. &c. -- if I could have time. But I could not do this without neglecting my duty. The Science of Government it is my Duty to study, more than all other Studies Sciences: the Art of Legislation and Administration and Negotiation, ought to take Place, indeed to exclude in a manner all other Arts. I must study Politicks and War that my sons may have liberty to study Painting and Poetry Mathematicks and Philosophy. My sons ought to study Mathematicks and Philosophy, Geography, natural History, Naval Architecture, navigation, Commerce and Agriculture, in order to give their Children a right to study Painting, Poetry, Musick, Architecture, Statuary, Tapestry and Porcelaine.
+I could fill Volumes with Descriptions of Temples and Palaces, Paintings, Sculptures, Tapestry, Porcelaine, etc -- if I could have time. But I could not do this without neglecting my duty. The Science of Government it is my Duty to study, more than all other Studies Sciences: the Art of Legislation and Administration and Negotiation, ought to take Place, indeed to exclude in a manner all other Arts. I must study Politicks and War that my sons may have liberty to study Painting and Poetry Mathematicks and Philosophy. My sons ought to study Mathematicks and Philosophy, Geography, natural History, Naval Architecture, navigation, Commerce and Agriculture, in order to give their Children a right to study Painting, Poetry, Musick, Architecture, Statuary, Tapestry and Porcelaine.
 
 #
 
@@ -44,11 +44,11 @@ To demonstrate diminishing marginal utility visually, I'll create a plot that sh
 Here's a step-by-step plan:
 
 1. **Define Utility Functions:**
-   - **Total Utility (U):** A typical utility function \( U(Q) \) where \( Q \) is the quantity of the good.
-   - **Marginal Utility (MU):** The derivative of total utility with respect to quantity, \( MU(Q) = \frac{dU(Q)}{dQ} \).
+   - **Total Utility (U):** A typical utility function $U(Q)$ where $Q$ is the quantity of the good.
+   - **Marginal Utility (MU):** The derivative of total utility with respect to quantity, $MU(Q) = \frac{dU(Q)}{dQ}$
 
 2. **Illustrate Diminishing Marginal Utility:**
-   - Show that as \( Q \) increases, \( MU \) decreases.
+   - Show that as $Q$ increases, $MU$ decreases.
 
 3. **Mathematical Representation:**
    - Use calculus notation to explain the relationship between total utility and marginal utility.
