@@ -109,3 +109,9 @@ plt.figtext(0.5, 0.02, r"$MU(Q) = \frac{dU(Q)}{dQ} = \lim_{\Delta Q \to 0} \frac
 plt.tight_layout()
 plt.show()
 ```
+
+Running this code will generate a visual demonstration of diminishing marginal utility with appropriate calculus notation and Greek symbols.
+
+Here is the generated image:
+
+![Diminishing Marginal Utility](diminishing_marginalutility.png)
