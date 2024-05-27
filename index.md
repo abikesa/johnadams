@@ -108,3 +108,4 @@ plt.figtext(0.5, 0.02, r"$MU(Q) = \frac{dU(Q)}{dQ} = \lim_{\Delta Q \to 0} \frac
 
 plt.tight_layout()
 plt.show()
+```
