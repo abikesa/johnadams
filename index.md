@@ -7,6 +7,15 @@ title: LaTeX Example
   src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
 </script>
 
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+  tex2jax: {
+    inlineMath: [['$', '$'], ['\\(', '\\)']],
+    processEscapes: true
+  }
+});
+</script>
+
 # LaTeX Rendering Example
 
 This is an example of inline LaTeX: $E = mc^2$
@@ -99,10 +108,3 @@ plt.figtext(0.5, 0.02, r"$MU(Q) = \frac{dU(Q)}{dQ} = \lim_{\Delta Q \to 0} \frac
 
 plt.tight_layout()
 plt.show()
-```
-
-Running this code will generate a visual demonstration of diminishing marginal utility with appropriate calculus notation and Greek symbols.
-
-Here is the generated image:
-
-![Diminishing Marginal Utility](diminishing_marginalutility.png)
