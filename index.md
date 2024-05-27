@@ -1,3 +1,24 @@
+---
+layout: default
+title: LaTeX Example
+---
+
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+
+# LaTeX Rendering Example
+
+This is an example of inline LaTeX: $E = mc^2$.
+
+This is an example of a displayed LaTeX equation:
+
+$$
+\int_{a}^{b} f(x) \, dx = F(b) - F(a)
+$$
+
+# 
+
 > *[John Adams to Abigail](https://www.masshist.org/digitaladams/archive/doc?id=L17800512jasecond)*
 
 ![](https://upload.wikimedia.org/wikipedia/commons/4/49/%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg)
