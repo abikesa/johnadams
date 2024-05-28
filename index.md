@@ -30,7 +30,7 @@ MathJax.Hub.Config({
 
 ### Individual: ♯9,♭9,♯11,♭13 
 5. Electricity/`Musick`: prophetic utterances (O)
-6. Railway/`Leisure`: individual experience (R)
+6. Railway/`Leisure`: individual experience ([R](https://www.youtube.com/watch?v=fu-3WN9TJNI))
 
 #
 
