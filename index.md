@@ -19,7 +19,6 @@ MathJax.Hub.Config({
 > *[Letters to Abigail](https://www.masshist.org/digitaladams/archive/doc?id=L17800512jasecond)*
 
 ![](https://upload.wikimedia.org/wikipedia/commons/4/49/%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg)
-
 ### [God](https://www.economist.com/culture/2024/05/14/god-an-ageing-product-outperforms-expectations)/Body/$Q$: 1st, 3rd, 5th, ♭♭7th, 9th  
 1. Hunter-gatherer/`War`: spiritual teachings  (I)
 2. Peasant/`Economics`: [humanism](https://www.uuftc.org) (B)           
