@@ -107,3 +107,4 @@ Here is the generated image:
 ![Diminishing Marginal Utility](diminishing_marginalutility.png)
 
 > One Needs a Worthy Adversary or Challenge!
+> Embrace More Remote Overtones of the Harmonic Series :) 
