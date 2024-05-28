@@ -16,7 +16,7 @@ MathJax.Hub.Config({
 });
 </script>
 
-> *[John Adams to Abigail](https://www.masshist.org/digitaladams/archive/doc?id=L17800512jasecond)*
+> *[Letters to Abigail](https://www.masshist.org/digitaladams/archive/doc?id=L17800512jasecond)*
 
 ![](https://upload.wikimedia.org/wikipedia/commons/4/49/%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg)
 
@@ -106,4 +106,4 @@ Here is the generated image:
 
 ![Diminishing Marginal Utility](diminishing_marginalutility.png)
 
-# One Needs a Worthy Adversary or Challenge!
+> One Needs a Worthy Adversary or Challenge!
