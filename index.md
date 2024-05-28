@@ -20,15 +20,15 @@ MathJax.Hub.Config({
 
 ![](https://upload.wikimedia.org/wikipedia/commons/4/49/%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg)
 
-### [God](https://www.economist.com/culture/2024/05/14/god-an-ageing-product-outperforms-expectations): 1st, 3rd, 5th, ♭♭7th, 9th  
+### [God](https://www.economist.com/culture/2024/05/14/god-an-ageing-product-outperforms-expectations)/Body: 1st, 3rd, 5th, ♭♭7th, 9th  
 1. Hunter-gatherer/`War`: spiritual teachings  (I)
 2. Peasant/`Economics`: [humanism](https://www.uuftc.org) (B)
 
-### Community: 11th, 13th
+### Community/Mind: 11th, 13th
 3. Farmer/`Calculus`: judeo, christian (G)
 4. Manufacturer/`Philosophy`: world religions (Y)
 
-### Individual: ♯9,♭9,♯11,♭13 
+### Individual/Soul: ♯9,♭9,♯11,♭13 
 5. Electricity/`Musick`: prophetic utterances (O)
 6. Railway/`Leisure`: individual experience ([R](https://www.youtube.com/watch?v=fu-3WN9TJNI))
 
