@@ -109,3 +109,12 @@ Here is the generated image:
 > One needs challenges, a worthy adversary, the embrace of more remote overtones of the harmonic series - ***Q**ualities*
 
 ![](diminishing_returns_wsj.jpg)
+
+**DIO.** Enough of both your odes.
+
+**AESCH.** Enough for me. Now would I bring the fellow to the scales. That,       
+that alone, shall test our poetry now, And prove whose words are      
+  weightiest, his or mine.      
+
+**DIO.** Then both come hither, since I needs must [weigh](https://www.gutenberg.org/cache/epub/7998/pg7998-images.html)     
+The art poetic like a [pound](https://www.jstor.org/stable/696535) of cheese.     
