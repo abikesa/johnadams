@@ -104,3 +104,5 @@ Here is the generated image:
 ![Diminishing Marginal Utility](diminishing_marginalutility.png)
 
 > One needs challenges, a worthy adversary, the embrace of more remote overtones of the harmonic series - ***Q**ualities*
+
+![](diminishing_returns_wsj.jpg)
