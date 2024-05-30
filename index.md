@@ -28,7 +28,7 @@ MathJax.Hub.Config({
 - Farmer/`Calculus`: judeo, christian (G)
 - Manufacturer/`Philosophy`: world religions (Y)         
 
-### Individual/Soul/$\frac{dU()}{dQ}$: ♯9,♭9,♯11,♭13 
+### Individual/[Soul](https://www.youtube.com/watch?v=4PjmW0dNePA)/$\frac{dU()}{dQ}$: ♯9,♭9,♯11,♭13 
 - Electricity/`Musick`: prophetic utterances ([O](https://www.youtube.com/watch?v=1aM1KYvl4Dw))
 - Railway/`Leisure`: individual experience ([R](https://www.youtube.com/watch?v=fu-3WN9TJNI))     
 
