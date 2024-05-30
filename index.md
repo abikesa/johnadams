@@ -26,7 +26,7 @@ MathJax.Hub.Config({
             
 ### Community/Mind/$U()$: 11th, 13th
 - Farmer/`Calculus`: judeo, christian (G)
-- Manufacturer/`Philosophy`: world religions (Y)         
+- Manufacturer/`Philosophy`: world religions ([Y](synthesis.md))         
 
 ### Individual/[Soul](https://www.youtube.com/watch?v=4PjmW0dNePA)/$\frac{dU()}{dQ}$: ♯9,♭9,♯11,♭13 
 - Electricity/`Musick`: prophetic utterances ([O](https://www.youtube.com/watch?v=1aM1KYvl4Dw))
