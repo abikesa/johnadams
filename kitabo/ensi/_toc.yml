@@ -1,0 +1,56 @@
+# Dionysus
+format: jb-book
+root: index
+chapters:
+  # Sing O Muse!
+  - file: act1/part1
+    sections:
+      - title: Frontend
+        file: act1/chapter1
+      - title: Backend
+        file: act1/chapter2
+      - title: GitHub
+        file: act1/chapter3
+        
+  # Sing O Muse!
+  - file: act2/part2
+    sections:
+      - title: Databases
+        file: act2/chapter1
+      - title: Variables
+        file: act2/chapter2
+      - title: Outcomes
+        file: act2/chapter3
+
+  # Apollo
+  - file: act3/part3
+    sections:
+      - title: 'Disclosure Risk 🌊'
+        file: act3/act1
+        sections:
+          - title: Beta Coefficient Vector
+            file: act3/part1/part1_1
+          - title: Variance Covariance Matrix
+            file: act3/part1/part1_2
+          - title: Public Repository
+            file: act3/part1/part1_3
+      - title: 'Tokenized Access ⚓️'
+        file: act3/act2
+        sections:
+          - title: Principal Investigators
+            file: act3/part2/part2_1
+          - title: Collaborators
+            file: act3/part2/part2_2
+          - title: Trainees
+            file: act3/part2/part2_3
+      - title: 'Collaboration 🧭'
+        file: act3/act3
+        sections:
+          - title: Speed
+            file: act3/part3/part3_1
+          - title: Volume
+            file: act3/part3/part3_2
+          - title: Iteration
+            file: act3/part3/part3_3
+
+  - file: bibliography
